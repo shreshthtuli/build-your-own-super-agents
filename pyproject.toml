@@ -9,6 +9,7 @@ dependencies = [
     "numpy>=2.3.4",
     "openai>=2.6.1",
     "pandas>=2.3.3",
+    "pyarrow>=22.0.0",
     "pydantic-ai>=1.9.1",
     "pydantic-graph>=1.9.1",
     "scienceplots>=2.1.1",
