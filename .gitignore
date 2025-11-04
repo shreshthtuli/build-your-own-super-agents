@@ -184,3 +184,5 @@ cython_debug/
 /.sudo_as_admin_successful
 /.vscode-server
 /.windsurf-server
+
+scores.py
