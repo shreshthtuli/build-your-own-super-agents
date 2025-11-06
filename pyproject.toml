@@ -6,6 +6,9 @@ readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "ipykernel>=7.1.0",
+    "lancedb>=0.25.2",
+    "langchain-text-splitters>=1.0.0",
+    "markdownify>=1.2.0",
     "numpy>=2.3.4",
     "openai>=2.6.1",
     "pandas>=2.3.3",
@@ -14,4 +17,6 @@ dependencies = [
     "pydantic-graph>=1.9.1",
     "scienceplots>=2.1.1",
     "seaborn>=0.13.2",
+    "tantivy>=0.25.0",
+    "tiktoken>=0.12.0",
 ]

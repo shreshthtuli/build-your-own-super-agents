@@ -186,3 +186,4 @@ cython_debug/
 /.windsurf-server
 
 scores.py
+data/sample-lancedb/
