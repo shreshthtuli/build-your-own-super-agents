@@ -5,6 +5,9 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "docker>=7.1.0",
+    "falkordb>=1.2.0",
+    "graphiti-core>=0.22.0",
     "ipykernel>=7.1.0",
     "lancedb>=0.25.2",
     "langchain-text-splitters>=1.0.0",
