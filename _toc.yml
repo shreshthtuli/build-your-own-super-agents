@@ -10,3 +10,4 @@ chapters:
   - file: 07-multi-agent-workflows
   - file: 08-model-selection
   - file: 09-model-placement
+  - file: 10-appendix-experimentation
