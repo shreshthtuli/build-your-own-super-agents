@@ -1,0 +1,12 @@
+format: jb-book
+root: README
+chapters:
+  - file: 01-simple-agent
+  - file: 02-framework-pydantic-ai
+  - file: 03-prompt-engg
+  - file: 04-rag
+  - file: 05-graphrag
+  - file: 06-evaluation
+  - file: 07-multi-agent-workflows
+  - file: 08-model-selection
+  - file: 09-model-placement

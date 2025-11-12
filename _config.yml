@@ -1,0 +1,52 @@
+# ============================================================
+# Jupyter Book Configuration for "LLMs from Scratch"
+# ============================================================
+
+title: ""
+author: "Shreshth Tuli"
+logo: assets/logo.png
+description: "Hands-on course to build Super Agents."
+language: en
+copyright: "© 2025 Shreshth Tuli"
+
+# Disable executing notebooks during build (to keep pages light)
+execute:
+  execute_notebooks: "off"
+
+# Launch buttons for interactivity
+launch_buttons:
+  colab_url: "https://colab.research.google.com"
+  binderhub_url: "https://mybinder.org"
+  notebook_interface: "jupyterlab"
+
+repository:
+  url: https://github.com/shreshthtuli/build-your-own-super-agents
+  path_to_book: "."
+  branch: main
+
+html:
+  favicon: assets/favicon.ico
+  use_repository_button: true
+  use_edit_page_button: true
+  use_issues_button: true
+  baseurl: "https://shreshthtuli.github.io/build-your-own-super-agents"
+  comments:
+    hypothesis: false
+  extra_footer: |
+    <p align="center">
+      Made with ❤️ by <a href="https://shreshthtuli.github.io">Shreshth Tuli</a> |
+      <a href="https://github.com/shreshthtuli/build-your-own-super-agents">View on GitHub</a>
+    </p>
+
+sphinx:
+  config:
+    html_show_copyright: false
+    html_show_sourcelink: false
+    html_theme_options:
+      repository_url: "https://github.com/shreshthtuli/build-your-own-super-agents"
+      use_repository_button: true
+      use_download_button: true
+      navigation_with_keys: true
+      show_toc_level: 2
+      default_mode: light
+      home_page_in_toc: true
