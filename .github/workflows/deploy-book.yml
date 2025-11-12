@@ -30,10 +30,10 @@ jobs:
           python-version: "3.10"
 
       - name: Install Jupyter Book
-        run: pip install jupyter-book
+        run: python -m pip install "jupyter-book"
 
       - name: Build Jupyter Book site
-        run: jb build .
+        run:  python -m jupyter_book build .
 
       - name: Copy assets to build folder
         run: |
