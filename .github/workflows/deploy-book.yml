@@ -31,7 +31,7 @@ jobs:
 
       - name: Install Jupyter Book
         run: |
-          pip insall jupyter-book==1.0.4
+          pip install jupyter-book==1.0.4
 
       - name: Build Jupyter Book site
         run: |
