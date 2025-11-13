@@ -11,3 +11,4 @@ chapters:
   - file: 08-model-selection
   - file: 09-model-placement
   - file: 10-appendix-experimentation
+  - file: 11-appendix-design-and-deployment
