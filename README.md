@@ -58,7 +58,7 @@ Each module is a self-contained notebook filled with explanations, demos, and pr
 ### Option A: Launch in Lightning Studio (no setup!)
 1. Click the **Open in Studio** badge above.
 2. Authenticate with Lightning (or create a free account).
-3. **Add API Keys** in `.env` file. Follow `.env.example`.
+3. **Add API Keys** in `.env` file. Follow `.env.example` and [this](https://openrouter.ai/keys).
 4. Explore the notebooks in a fully provisioned environment.
 
 ### Option B: Run Locally
