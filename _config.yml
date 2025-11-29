@@ -38,8 +38,17 @@ html:
       <a href="https://github.com/shreshthtuli/build-your-own-super-agents">View on GitHub</a>
     </p>
 
+
 sphinx:
+  extra_extensions:
+    - sphinx_sitemap           # generate sitemap.xml
+    - sphinxext.opengraph      # OpenGraph / social cards
   config:
+    html_title: "Build your own Super Agents"    
+    html_short_title: "Build your own Super Agents"    
+    html_baseurl: "https://shreshthtuli.github.io/build-your-own-super-agents"    
+    ogp_site_url: "https://shreshthtuli.github.io/build-your-own-super-agents/"    
+    ogp_site_name: "Build your own Super Agents"
     html_show_copyright: false
     html_show_sourcelink: false
     html_theme_options:
