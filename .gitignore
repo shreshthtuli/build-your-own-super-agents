@@ -184,6 +184,10 @@ cython_debug/
 /.sudo_as_admin_successful
 /.vscode-server
 /.windsurf-server
+/.claude
+/.codex
+.claude.json
+.claude.json.backup
 
 scores.py
 data/sample-lancedb/
