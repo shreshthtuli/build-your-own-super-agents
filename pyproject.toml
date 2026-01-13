@@ -15,6 +15,7 @@ dependencies = [
     "langchain-text-splitters>=1.0.0",
     "markdownify>=1.2.0",
     "nbformat>=5.10.4",
+    "nest-asyncio>=1.6.0",
     "numpy>=2.3.4",
     "openai>=2.6.1",
     "pandas>=2.3.3",
