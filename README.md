@@ -41,6 +41,7 @@ Each module is a self-contained notebook filled with explanations, demos, and pr
 | 09     | Model Placement (Edge, Cloud, Hybrid)              | [09-model-placement.ipynb](https://shreshthtuli.github.io/build-your-own-super-agents/09-model-placement.html)          |
 | 10     | Appendix: End-to-End Experimentation               | [10-appendix-experimentation.ipynb](https://shreshthtuli.github.io/build-your-own-super-agents/10-appendix-experimentation.html)          |
 | 11     | Appendix: Designing Scalable Agentic Systems (AWS) | [11-scalable-agentic-systems.ipynb](https://shreshthtuli.github.io/build-your-own-super-agents/11-appendix-design-and-deployment.html) |
+| 12     | Bonus: Agentic Reinforcement Learning | [12-bonus-agentic-rl.ipynb](https://shreshthtuli.github.io/build-your-own-super-agents/12-bonus-agentic-rl.html) |
 
 
 ## 🧠 What You'll Learn
