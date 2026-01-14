@@ -12,3 +12,4 @@ chapters:
   - file: 09-model-placement
   - file: 10-appendix-experimentation
   - file: 11-appendix-design-and-deployment
+  - file: 12-bonus-agentic-rl
