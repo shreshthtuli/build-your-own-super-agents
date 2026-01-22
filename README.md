@@ -103,6 +103,8 @@ Every notebook stands alone, but following this sequence gives you the smoothest
 
 I’m **Shreshth Tuli**, an AI researcher, engineer and educator specializing in advanced ML systems, optimisation and real-world deployment. I build and teach systems that go beyond isolated models into full pipelines and platforms. Done this course? Feel free to connect on LinkedIn [@shreshth-tuli](https://www.linkedin.com/in/shreshth-tuli/) or GitHub [@shreshthtuli](https://github.com/shreshthtuli).
 
+More about me [here](https://stuli.ai/).
+
 
 ## 🤝 Contributions
 
